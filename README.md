@@ -1,1 +1,1 @@
-A pet snake is less scary
+Higher level programming with Python
