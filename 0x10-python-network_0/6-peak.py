@@ -12,7 +12,7 @@ def find_peak(list_of_integers):
     size = len(list_of_integers)
     if size == 1:
         return list_of_integers[0]
-    elif size == 2:
+    elif size == 1 or size == 2:
         return max(list_of_integers)
 
     mid = int(size / 2)
