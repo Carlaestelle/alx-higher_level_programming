@@ -1,14 +1,15 @@
-#**0x10. Python - Network #0**#
-     *Bash   Python   Scripting   Back-end   API*
-#**Resources**#
-##*Read or watch:*##
+**0x10. Python - Network #0**
 
-[HTTP (HyperText Transfer Protocol)] (https://intranet.alxswe.com/rltoken/rAon_EpQ6PGl8N0plySn4A)(except: “TRACE” Request Method, “CONNECT” Request Method, Language Negotiation and “Options MultiView” and Character Set Negotiation)
-[HTTP Cookies](https://intranet.alxswe.com/rltoken/MhVCl_0oviQldWPn5oX-NQ)
-#**Learning Objectives**#
+
+     *Bash*   *Python*   *Scripting*   *Back-end*   *API*
+**Resources**
+*Read or watch:*
+- [HTTP (HyperText Transfer Protocol)](https://intranet.alxswe.com/rltoken/rAon_EpQ6PGl8N0plySn4A)(except: “TRACE” Request Method, “CONNECT” Request Method, Language Negotiation and “Options MultiView” and Character Set Negotiation)
+- [HTTP Cookies](https://intranet.alxswe.com/rltoken/MhVCl_0oviQldWPn5oX-NQ)
+**Learning Objectives**
 **At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/6HRdeOrrKTW2ih43ObB8tQ), without the help of Google:**
 
-#**General**#
+**General**
 - What a URL is
 - What HTTP is
 - How to read a URL
